@@ -14,7 +14,7 @@ class Student:
         self.mark["ph"] = mark["ph"]
     
 
-vasya = Student("Âàñÿ","Ïóïêèí",7,{"math":4,"ph":5})
+vasya = Student("Ğ’Ğ°ÑÑ","Ğ˜Ğ²Ğ°Ğ½Ğ¾Ğ²",7,{"math":4,"ph":5})
 print(vasya.name)
 print(vasya.surname)
 print(vasya.grade)
